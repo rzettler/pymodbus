@@ -1,4 +1,4 @@
-PyModbus - A Python Modbus Stack
+PyModbus - A Python Modbus Stack by RZ
 ================================
 .. image:: https://github.com/pymodbus-dev/pymodbus/actions/workflows/ci.yml/badge.svg?branch=dev
    :target: https://github.com/pymodbus-dev/pymodbus/actions/workflows/ci.yml
